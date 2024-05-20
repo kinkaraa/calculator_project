@@ -1,5 +1,5 @@
 print("===============================")
-print("KALKULATOR MINI")
+print("KALKULATOR AJA")
 print("===============================")
 
 while True:
